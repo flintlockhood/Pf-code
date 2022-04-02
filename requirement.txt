@@ -3,3 +3,6 @@ Emoji
 Typeing OPtion
 Colouring
 Stikers etc
+
+Drak mode
+Aeroplane mode
